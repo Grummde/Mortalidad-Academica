@@ -1,0 +1,8 @@
+# Nunca subir archivos con datos de estudiantes a un repositorio público
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.pdf
+~$*
+.DS_Store
